@@ -1,0 +1,16 @@
+mat-toolbar {
+  justify-content: space-between;
+}
+
+.content {
+  padding: 55px;
+}
+
+.content > mat-card {
+  margin-bottom: 16px;
+}
+img {
+  width: 200px;
+  height: 300px;
+  object-fit: cover;
+}
